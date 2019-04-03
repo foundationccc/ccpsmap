@@ -1,0 +1,2997 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0069786,35.3906220 ]
+    },
+    "properties": {
+    "Region":"Bakersfield",
+    "Site":"BAKERSFIELD MEMORIAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9705331,35.3829347 ]
+    },
+    "properties": {
+    "Region":"Bakersfield",
+    "Site":"KERN MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0276426,35.3727847 ]
+    },
+    "properties": {
+    "Region":"Bakersfield",
+    "Site":"MERCY HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.1124392,35.3515393 ]
+    },
+    "properties": {
+    "Region":"Bakersfield",
+    "Site":"MERCY SOUTHWEST HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0206245,35.3833196 ]
+    },
+    "properties": {
+    "Region":"Bakersfield",
+    "Site":"SAN JOAQUIN COMMUNITY HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7577795,21.3808543 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Castle Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8334591,21.2998428 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Hawaii Pacific Health - Kapiolani"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.9382973,21.3835987 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Hawaii Pacific Health - Pali Momi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8501322,21.3025814 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Hawaii Pacific Health - Straub"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.3644875,21.9854096 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Hawaii Pacific Health - Wilcox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.9000128,21.3632544 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Kaiser Permanente Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.4894832,20.8846284 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Maui Health Systems-Kaiser"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8538581,21.3084698 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"The Queen'S Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8941585,21.3558462 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"Tripler Army Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8894405,21.3612248 ]
+    },
+    "properties": {
+    "Region":"Hawaii",
+    "Site":"VA Pacific Islands Healthcare Systems"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0423805,32.8084230 ]
+    },
+    "properties": {
+    "Region":"S. Carolina",
+    "Site":"BON SECOURS ST. FRANCIS HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9467470,32.7844632 ]
+    },
+    "properties": {
+    "Region":"S. Carolina",
+    "Site":"MEDICAL UNIVERSITY SOUTH CAROLINA HEALTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9498403,32.7826760 ]
+    },
+    "properties": {
+    "Region":"S. Carolina",
+    "Site":"ROPER HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0936463,32.9332769 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR  Medical Center - GRAPEVINE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7907290,33.0133231 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR  Medical Center - PLANO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7810304,32.7881869 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR HEART & VASCULAR HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7804763,32.7916820 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR INST FOR REHABILITATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6619985,32.9186038 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR Medical Center - GARLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9603078,32.8346954 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR Medical Center - IRVING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8645018,32.3960278 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR Medical Center - WAXAHACHIE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7815660,32.7918120 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR SPECIALTY HEALTH CTRS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7805931,32.7899372 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR UNIV Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3451350,32.7296584 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"BAYLOR-ALL SAINTS Medical CenterS-FT WORTH "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6004473,32.7784533 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"DALLAS REGIONAL MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0912170,33.1778917 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"DENTON REGIONAL MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7715146,32.9128472 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"GREEN OAKS HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9574019,32.9010772 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"LAS COLINAS MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1130553,32.6931143 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"Medical Center OF ARLINGTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0046562,33.0452646 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"Medical Center OF LEWISVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6371294,33.1596558 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"Medical Center OF MCKINNEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7659719,33.0193167 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"Medical Center OF PLANO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7734463,32.9113881 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"MEDICAL CITY DALLAS HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8250881,32.7609193 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"METHODIST DALLAS Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7268631,32.9743457 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"METHODIST RICHARDSON MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.2135241,32.8292376 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"NORTH HILLS HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7831594,32.7913832 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"OUR CHILDREN'S AT BAYLOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8356763,32.8128222 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"PARKLAND HEALTH & HOSPITAL SYSTEM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3454149,32.7358538 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"PLAZA MEDICAL CENTER OF FORT WORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1233363,32.8348411 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH- HARRIS METHODIST HOSP-HEB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3104814,32.9305573 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH- METHODIST HOSPITAL ALLIANCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1171733,32.7496311 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-ARLINGTON MEMORIAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7897247,33.0147787 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"THE HEART HOSP BAYLOR - PLANO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4267110,32.6599999 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-HARRIS METHODIST HOSP- SW&FORT WORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4386255,32.3321172 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-HARRIS METHODIST HOSP-CLEBURNE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3391024,32.7372508 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-HARRIS METHODIST HOSP-FORT WORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2041019,32.2225376 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-HARRIS METHODIST HOSP-STEPHENVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5329888,32.8808580 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-METHODIST HOSPITAL AZLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.3182415,32.5921005 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-PRESBYTERIAN HOSP- KAUFMAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6730840,33.1158623 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-PRESBYTERIAN HOSP-ALLEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7632008,32.8794383 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-PRESBYTERIAN HOSP-DALLAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1663996,33.2175508 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-PRESBYTERIAN HOSP-DENTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8379001,33.0440054 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"TH-PRESBYTERIAN HOSP-PLANO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7052017,32.8344592 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":" DOCTOR'S HOSPITAL WRL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8764968,32.6453975 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":" METHODIST CHARLTON Medical Center (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0945011,32.5680747 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":" METHODIST MANSFIELD Medical Center (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7915235,32.6932960 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":" VA HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7706796,33.1138423 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"CENTENNIAL MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3411911,32.7362754 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"COOK CHILDREN'S HEALTH CARE SYSTEM(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3276062,32.7268053 ]
+    },
+    "properties": {
+    "Region":"North Texas",
+    "Site":"JPS HEALTH NETWORK (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1022013,26.3585783 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" BOCA RATON REGIONAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1451864,25.9700175 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"AVENTURA HOSPITAL AND MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3363467,25.6870576 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"BAPTIST HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0697661,26.5046196 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"BETHESDA MEMORIAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1405904,26.1018675 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"BROWARD GENERAL MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2556358,26.2688102 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"CORAL SPRINGS MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2649367,25.7399267 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"DOCTORS HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0518887,26.7251532 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"GOOD SAMARITAN MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2684589,25.8456827 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"HIALEAH HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1196531,26.1866679 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"HOLY CROSS HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4807769,25.4825990 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"HOMESTEAD HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1110149,26.2068048 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"IMPERIAL POINT MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2137439,25.7911243 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"JACKSON MEMORIAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2033524,25.9302443 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"JACKSON NORTH MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3446294,25.6298254 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"JACKSON SOUTH COMMUNITY HOSPITAL "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0909644,26.5983629 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"JFK MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0876123,26.7619368 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"JFK MEDICAL CENTER NORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0964668,26.9225859 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"JUPITER MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3857598,25.7319499 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"KENDALL REGIONAL MEDICAL CENTER "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2931475,25.7055392 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"LARKIN COMMUNITY HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3728387,25.9908868 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MEMORIAL  MIRAMAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2455491,26.0296956 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MEMORIAL  PEMBROKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1799215,26.0021043 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MEMORIAL REGIONAL HOSPITAL SOUTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1803593,26.0199994 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MEMORIAL REGIONAL/JD CHILDREN'S HOSP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2138245,25.7400472 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MERCY HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2166357,25.7909495 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MIAMI VA HEALTHCARE SYSTEM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1414004,25.8129583 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"MT. SINAI MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2950179,25.7414512 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"NICKLAUS CHILDREN'S HOSPITAL "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1216454,26.2769628 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"NORTH BROWARD MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2078920,26.0348979 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"NORTHWEST MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2525631,26.6838236 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"PALMS WEST HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2053767,26.1264969 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"PLANTATION GENERAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2942397,25.7022109 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"SOUTH MIAMI HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0625080,26.7558058 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"ST. MARY'S MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2542607,26.2119682 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"UNIVERSITY HOSPITAL AND MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2542607,26.2119682 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"UNIVERSITY HOSPITAL AND MEDICAL CENTER (ALLIED HEALTH) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2158355,25.7887037 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"UNIVERSITY OF MIAMI HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1073137,26.7844659 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"VETERAN'S AFFAIRS - WEST PALM BEACH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4559629,25.6785523 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"WEST KENDALL BAPTIST HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2595120,26.1235430 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":"WESTSIDE REGIONAL MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1451864,25.9700175 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" AVENTURA HOSPITAL & MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3644950,26.0815520 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" CLEVELAND CLINIC FLORIDA (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0876123,26.7619368 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" COLUMBIA HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6692923,26.6695548 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" GLADES GENERAL HOSPITAL(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0530121,26.7120536 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HEALTH CARE DISTRICT OF PALM BEACH COUNTY(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0604337,26.7113002 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HEALTH DEPT PBC (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6143055,28.0881479 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HEALTH-FIRST (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1196531,26.1866679 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HOLY CROSS HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1164150,26.3519050 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HOSPICE BY THE SEA (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1799215,26.0021043 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HOSPICE BY THE SEA BROWARD (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0673746,26.7580319 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" HOSPICE OF PALM BEACH COUNTY (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0964668,26.9225859 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" JUPITER MEDICAL CENTER(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6712710,26.7241903 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" LAKESIDE MEDICAL CENTER (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5220346,25.0059575 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" MARINERS HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2433710,27.1980657 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" MARTIN MEMORIAL HEALTH SYSTEM (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0868409,26.8294567 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" PALM BEACH GARDENS MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2498792,26.0014295 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" SOUTH FLORIDA STATE HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2939746,27.2884484 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" ST. LUCIE MEDICAL CENTER (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0909431,26.5113575 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" VITAS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2051152,26.6518008 ]
+    },
+    "properties": {
+    "Region":"Florida",
+    "Site":" WELLINGTON REGIONAL MEDICAL CENTER(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5020630,39.1404509 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"CINCINNATI CHILDREN'S HOSPITAL MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3495480,39.0857400 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"MERCY HEALTH ANDERSON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1446679,39.0799246 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"MERCY HEALTH CLERMONT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5173035,39.3126283 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"MERCY HEALTH FAIRFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3810305,39.2059813 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"MERCY HEALTH JEWISH "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6037696,39.1796770 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"MERCY HEALTH WEST "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5626515,39.0132266 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"ST ELIZABETH HEALTHCARE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5085607,39.1208511 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"THE CHRIST HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4497718,39.1620845 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"TRIHEALTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4497718,39.1620845 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"TRIHEALTH (PRECEPTOR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5023477,39.1367253 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"UNIVERSITY OF CINCINNATI MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3674628,39.3581186 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":"WEST CHESTER HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3144283,39.4985520 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" ATRIUM MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2327833,39.7879580 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" GOOD SAMARITAN HOSPITAL - DAYTON (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2026957,39.7698344 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" GRANDVIEW MEDICAL CENTER(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9278220,39.7002180 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" GREENE MEMORIAL HOSPITAL(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3810305,39.2059813 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" JEWISH HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1922785,39.6967019 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" KETTERING MEDICAL CENTER(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1857844,39.7455071 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" MIAMI VALLEY HOSPITAL(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8163080,39.9286179 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" SPRINGFIELD REGIONAL MEDICAL CENTER(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2485410,39.6375421 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" SYCAMORE MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3674628,39.3581186 ]
+    },
+    "properties": {
+    "Region":"Ohio",
+    "Site":" WEST CHESTER HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4006224,29.7077057 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"BAYLOR ST. LUKE'S MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.1277345,29.5412969 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"CLEAR LAKE REGIONAL MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.1837808,29.6612444 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"HCA BAYSHORE HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9856691,29.3954621 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"HCA MAINLAND MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3940865,29.7109781 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"HCHD BEN TAUB GENERAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3130337,29.8117863 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"LYNDON B. JOHNSON GENERAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5222934,29.6932967 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"MEMORIAL HERMANN HOSPITAL-SOUTHWEST "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2078770,29.5822510 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"MEMORIAL HERMANN SOUTHEAST HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3573194,29.7559698 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"MEMORIAL HERMANN TMC /CHILD'S MEM HERMANN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3662179,29.7106757 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"QUENTIN MEASE HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3662309,29.7484830 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"ST. JOSEPH MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4572367,30.2001894 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"TEXAS CHILDREN’S HOSPITAL – THE WOODLANDS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4016041,29.7078462 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"TEXAS CHILDREN'S HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4016041,29.7078462 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"TEXAS CHILDREN'S HOSPITAL PAVILION FOR WOMEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6928636,29.7878942 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"TEXAS CHILDREN'S HOSPITAL-WEST CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4020644,29.6929920 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"THE WOMAN'S HOSPITAL OF TEXAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3744077,29.7120634 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"UT HARRIS COUNTY PSYCHIATRIC CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.7758738,29.3107498 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"UTMB MED CENTER "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4674008,30.2847619 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" HCA CONROE HOSPITAL (INACTIVE)  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4090910,29.7001865 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" HCA TEXAS ORTHOPEDIC HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3997225,29.7099079 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" HOUSTON METHODIST (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.0867124,29.5493760 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" HOUSTON METHODIST ST JOHN HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4406328,30.0186078 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" HOUSTON NORTHWEST MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3990765,29.7130072 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" KINDRED HEALTH CARE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4304260,29.8115414 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" MEMORIAL HERMANN NORTHWEST HOSPITAL(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7863342,29.7874335 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" MEMORIAL HERMANN-KATY (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4539878,30.1746102 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" MEMORIAL HERMANN-THE WOODLANDS HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9796029,29.7691568 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" SAN JACINTO METHODIST HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.7771886,29.3091863 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" SHRINER’S HOSPITAL FOR CHILDREN (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5947219,29.7294486 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":" WEST HOUSTON MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3997225,29.7099079 ]
+    },
+    "properties": {
+    "Region":"Houston",
+    "Site":"METHODIST HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2661449,34.0374888 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"California Hospital Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2304591,34.1502139 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Glendale Adventist Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2569564,34.1280862 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Glendale Memorial Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1525463,34.1325954 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Huntington Memorial Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2945637,34.0987353 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Kaiser Los Angeles Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436626,34.0664722 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Kaiser Permanente Mental Health Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3751887,34.0379879 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Kaiser West Los Angeles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2012607,34.0619943 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Keck Hospital Of Usc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3572436,33.8384678 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Little Company Of Mary Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3050980,33.7382583 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Little Company Of Mary Hospital - San Pedro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4423562,34.0642829 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Mattel Children'S Hospital (See Ucla Medical Center)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5331136,34.2200955 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Northridge Hospital Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3284546,34.1562138 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Providence St. Joseph Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4465738,34.0664764 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Resnick Neuropsych Hospital At Ucla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4863064,34.0270998 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Santa Monica Ucla Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2032280,33.9308260 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"St Francis Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4444166,34.0581942 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Ucla Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4632201,34.1950106 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"Valley Presbyterian Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.6287791,34.2029255 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"West Hills Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2167024,34.0492848 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"White Memorial Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1325081,33.9038782 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"KAISER BELLFLOWER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4599806,34.2797820 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"PROVIDENCE HOLY CROSS MEDICAL CENTER ("
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4788689,34.0310890 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"SAINT JOHNS HEALTH CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3435467,33.8118946 ]
+    },
+    "properties": {
+    "Region":"Los Angeles",
+    "Site":"TORRANCE MEMORIAL MEDICAL CENTER "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2316641,37.7986088 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"ALAMEDA HEALTH SYSTEMS (NURSING)  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4000000,37.7900000 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"CALIFORNIA PACIFIC MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2670282,37.8371901 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"CHILDREN'S HOSPITAL AT OAKLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0379096,37.9853651 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"JOHN MUIR BEHAVIORAL HEALTH CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0338474,37.9838036 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"JOHN MUIR, CONCORD CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0409498,37.9128769 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"JOHN MUIR, WALNUT CREEK CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8002512,37.2398041 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER  SAN JOSE Medical Center  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4391154,37.6592060 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER  SO SAN FRANCISCO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7749286,37.9508418 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER ANTIOCH Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9747793,37.5521961 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER FREMONT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1103445,37.9936318 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER MARTINEZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2585683,37.8235207 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER OAKLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2238140,37.4893706 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER REDWOOD CITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3605559,37.9371877 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER RICHMOND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4430966,37.7824588 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER SAN FRANCISCO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1647052,37.7064867 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER SAN LEANDRO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5546467,38.0043293 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER SAN RAFAEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9974591,37.3363342 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER SANTA CLARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7270141,38.4721200 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER SANTA ROSA "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9387685,38.3882169 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER VACAVILLE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2484432,38.1276700 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER VALLEJO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0588864,37.8915785 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"KAISER WALNUT CREEK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1738746,37.4360801 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"LUCILE PACKARD CHILDREN'S HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5360275,37.9473603 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"MARIN GENERAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0473434,38.2620091 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"NORTHBAY MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9386351,37.3283032 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"O'CONNOR HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4047381,37.7557265 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SAN FRANCISCO GENERAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9332672,37.3128569 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SANTA CLARA VALLEY MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2546654,37.4798430 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SEQUOIA HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5071289,37.5261488 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SETON Medical Center COASTSIDE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4740564,37.6801347 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SETON MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4167294,37.7893799 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"ST. FRANCIS MEMORIAL HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4206672,37.7477025 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"ST. LUKE'S HOSPITAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1750485,37.4330746 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"STANFORD HEALTH CARE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4578144,37.7630895 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"UCSF MEDICAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1400089,37.4054073 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"VA PALO ALTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8803417,37.6933946 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"VALLEY CARE HEALTH SYSTEM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2533868,37.7628141 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" ALAMEDA HOSPITAL(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2575014,37.8556279 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" ALTA BATES MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9696175,37.2627564 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" COMMUNITY HOSPITAL OF LOS GATOS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1327937,38.0067640 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" CONTRA COSTA REGIONAL MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3363246,37.9532365 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" DOCTORS SAN PABLO (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0795279,37.3691517 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" EL CAMINO HOSPITAL (INACTIVE)  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9850724,37.5390215 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" FREMONT HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9466889,37.2517475 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" GOOD SAMARITAN HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8643251,38.6270930 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" HEALDSBURG DISTRICT HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2687119,37.8640724 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" HERRICK MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0952258,37.6305991 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" KAISER HAYWARD (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5602290,38.0991530 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" NOVATO COMMUNITY HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6316537,38.2545900 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" PETALUMA VALLEY HOSPITAL(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8489667,37.3622057 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" REGIONAL MEDICAL CENTER OF SAN JOSE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1433524,37.7122362 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SAN LEANDRO HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2991375,37.5312245 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SAN MATEO MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9582426,37.7759705 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SAN RAMON REGIONAL MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7011068,38.4437589 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SANTA ROSA MEMORIAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4656876,38.2881503 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SONOMA VALLEY HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4748268,38.5425501 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" ST. HELENA HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4538893,37.7740749 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" ST. MARY'S MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0879165,37.6334549 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" ST. ROSE HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2630846,37.8216770 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SUMMIT MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7075929,38.4698771 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" SUTTER MEDICAL CENTER SANTA ROSA (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5048554,37.7823359 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" VA MEDICAL CENTER, SAN FRANCISCO (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9517116,38.3557695 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" VACAVALLEY HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3650306,38.3906942 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" VETERAN'S HOME YOUNTVILLE (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9797604,37.5572600 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":" WASHINGTON HOSPITAL (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4091299,37.7955406 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"CHINESE HOSPITAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0903131,37.6982685 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"EDEN MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3833033,37.5944704 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"MILLS PENINSULA (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2971094,38.3244820 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"QUEEN OF THE VALLEY MEDICAL CENTER (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8029078,37.9825348 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SUTTER DELTA (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2373373,38.1312888 ]
+    },
+    "properties": {
+    "Region":"Bay Area",
+    "Site":"SUTTER SOLANO MEDICAL CENTER(INACTIVE) "
+    }
+  }
+]
+}

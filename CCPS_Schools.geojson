@@ -1,0 +1,3135 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0238981,35.3843462 ]
+    },
+    "properties": {
+    "Site":"BAKERSFIELD ADULT SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9716510,35.4079936 ]
+    },
+    "properties": {
+    "Site":"BAKERSFIELD COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.1034294,35.3509184 ]
+    },
+    "properties": {
+    "Site":"CAL STATE BAKERSFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1443145,34.6761020 ]
+    },
+    "properties": {
+    "Site":"HIGH DESERT MEDICAL COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8072852,21.2897129 ]
+    },
+    "properties": {
+    "Site":"Chaminade University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7816758,21.3790681 ]
+    },
+    "properties": {
+    "Site":"Hawaii Pacific University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8012813,21.2714311 ]
+    },
+    "properties": {
+    "Site":"Kapiolani Community College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.4775205,20.8911211 ]
+    },
+    "properties": {
+    "Site":"Maui College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.0830875,21.3347576 ]
+    },
+    "properties": {
+    "Site":"University Of Hawaii-West Oahu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8636126,21.3079689 ]
+    },
+    "properties": {
+    "Site":"University Of Phoenix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8177150,21.3005793 ]
+    },
+    "properties": {
+    "Site":"University of Hawaii at Manoa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.4213860,21.9649666 ]
+    },
+    "properties": {
+    "Site":"Kauai Community College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0495630,32.9361304 ]
+    },
+    "properties": {
+    "Site":"ECPI UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9487801,32.7845221 ]
+    },
+    "properties": {
+    "Site":"MEDICAL UNIVERSITY OF S.C. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0312506,32.9271316 ]
+    },
+    "properties": {
+    "Site":"TRIDENT TECHNICAL COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0701280,32.9772338 ]
+    },
+    "properties": {
+    "Site":"CHARLESTON SOUTHERN UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7777653,32.7891063 ]
+    },
+    "properties": {
+    "Site":"BAYLOR UNIVERSITY-LOUISE HERRINGTON SCHOOL OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8504275,32.9283355 ]
+    },
+    "properties": {
+    "Site":"BROOKHAVEN COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0124653,32.9345926 ]
+    },
+    "properties": {
+    "Site":"CHAMBERLAIN COLLEGE OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6418485,33.2184412 ]
+    },
+    "properties": {
+    "Site":"COLLIN COUNTY COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8052090,32.7797883 ]
+    },
+    "properties": {
+    "Site":"EL CENTRO COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9017495,32.7204485 ]
+    },
+    "properties": {
+    "Site":"MOUNTAIN VIEW COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4943996,38.5815719 ]
+    },
+    "properties": {
+    "Site":"N. TEXAS VISITOR SCHOOL (TRIAL) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2000000,32.2200000 ]
+    },
+    "properties": {
+    "Site":"TARLETON STATE UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3322585,32.7589314 ]
+    },
+    "properties": {
+    "Site":"TARRANT COUNTY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3640991,32.7098635 ]
+    },
+    "properties": {
+    "Site":"TEXAS CHRISTIAN UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1303057,33.2105565 ]
+    },
+    "properties": {
+    "Site":"TEXAS WOMAN'S UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1115024,32.7287692 ]
+    },
+    "properties": {
+    "Site":"UT ARLINGTON COLLEGE OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7925756,32.7412919 ]
+    },
+    "properties": {
+    "Site":"WEATHERFORD COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8737126,32.8274604 ]
+    },
+    "properties": {
+    "Site":"WEST  COAST UNIVERSITY - DALLAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0050761,32.7606981 ]
+    },
+    "properties": {
+    "Site":"Z FORTIS INSTITUTE (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6335781,33.7048994 ]
+    },
+    "properties": {
+    "Site":"Z GRAYSON  COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7573452,32.9796645 ]
+    },
+    "properties": {
+    "Site":"Z ITT - BRECKINRIDGE SON (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.4987055,32.0761398 ]
+    },
+    "properties": {
+    "Site":"Z NAVARRO COLLEGE(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1659405,33.6187918 ]
+    },
+    "properties": {
+    "Site":"Z NORTH CENTRAL TEXAS COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3256455,32.3982300 ]
+    },
+    "properties": {
+    "Site":"Z SOUTHWESTERN ADVENTIST UNIVERSITY (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.3168752,32.5919595 ]
+    },
+    "properties": {
+    "Site":"Z TRINITY VALLEY COMMUNITY COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1214853,26.7064232 ]
+    },
+    "properties": {
+    "Site":"ACADEMY OF NURSING AND HEALTH OCCUPATIONS "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3066580,25.8557280 ]
+    },
+    "properties": {
+    "Site":"ADVANCE SCIENCE COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3938299,25.6627909 ]
+    },
+    "properties": {
+    "Site":"AMERICAN MEDICAL ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1922690,26.2427780 ]
+    },
+    "properties": {
+    "Site":"ATLANTIC TECHNICAL COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3363467,25.6870576 ]
+    },
+    "properties": {
+    "Site":"BAPTIST SCHOLAR PROGRAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1963899,25.8790842 ]
+    },
+    "properties": {
+    "Site":"BARRY UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1335683,26.2421068 ]
+    },
+    "properties": {
+    "Site":"BLANCHE ELY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2344560,26.0788703 ]
+    },
+    "properties": {
+    "Site":"BROWARD COMMUNITY COLLEGE ( CENTRAL CAMPUS )"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1744201,26.2399392 ]
+    },
+    "properties": {
+    "Site":"BROWARD COMMUNITY COLLEGE ( NORTH CAMPUS )"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2127046,26.0099134 ]
+    },
+    "properties": {
+    "Site":"BROWARD COMMUNITY COLLEGE ( SOUTH CAMPUS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0677674,26.6171127 ]
+    },
+    "properties": {
+    "Site":"CAPSCARE ACADEMY FOR HEALTH EDUCATION  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3397080,25.9876771 ]
+    },
+    "properties": {
+    "Site":"CHAMBERLAIN COLLEGE OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3170454,25.6836533 ]
+    },
+    "properties": {
+    "Site":"CITY COLLEGE - MIAMI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7477770,24.5861510 ]
+    },
+    "properties": {
+    "Site":"FLA. KEYS COMM COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1057085,26.3692290 ]
+    },
+    "properties": {
+    "Site":"FLORIDA ATLANTIC UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0909864,26.5421782 ]
+    },
+    "properties": {
+    "Site":"FLORIDA CAREER COLLEGE-BB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1399798,25.9117892 ]
+    },
+    "properties": {
+    "Site":"FLORIDA INTERNATIONAL UNIVERSITY - BISCAYNE BAY CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3820014,25.7567674 ]
+    },
+    "properties": {
+    "Site":"FLORIDA INTERNATIONAL UNIVERSITY - UNIVERSITY PARK CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3219199,25.8617133 ]
+    },
+    "properties": {
+    "Site":"FLORIDA NATIONAL UNIVERSITY "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3642120,25.5855081 ]
+    },
+    "properties": {
+    "Site":"FORTIS COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3127171,27.3105923 ]
+    },
+    "properties": {
+    "Site":"FORTIS INSITUTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0851389,26.7026470 ]
+    },
+    "properties": {
+    "Site":"HEALTH CAREER INSTITUTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4589295,25.4504589 ]
+    },
+    "properties": {
+    "Site":"HOMESTEAD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1511881,26.7136464 ]
+    },
+    "properties": {
+    "Site":"KEISER UNIV WPB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1046271,26.7158440 ]
+    },
+    "properties": {
+    "Site":"KEISER UNIVERSITY - FLAGSHIP CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3842194,25.7935734 ]
+    },
+    "properties": {
+    "Site":"KEISER UNIVERSITY  MIAMI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1640222,26.1859033 ]
+    },
+    "properties": {
+    "Site":"KEISER UNIVERSITY FT.LAUDERDALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2925597,25.7057974 ]
+    },
+    "properties": {
+    "Site":"LARKIN SCHOOL OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0925577,26.7560212 ]
+    },
+    "properties": {
+    "Site":"LINCOLN COLLEGE OF TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2077043,25.7950569 ]
+    },
+    "properties": {
+    "Site":"LINDSEY HOPKINS SCHOOL OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2322842,26.0851854 ]
+    },
+    "properties": {
+    "Site":"MCFATTER TECHNICAL COLLEGE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3905182,25.5998343 ]
+    },
+    "properties": {
+    "Site":"MDPS-ROBERT MORGAN EDUCATIONAL CENTER "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2138245,25.7400472 ]
+    },
+    "properties": {
+    "Site":"MERCY HOSPITAL - SCHOOL OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2949135,25.9151978 ]
+    },
+    "properties": {
+    "Site":"MIAMI LAKES EDUCATIONAL CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2139182,25.8383434 ]
+    },
+    "properties": {
+    "Site":"MIAMI NORTHWESTERN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2139182,25.8383434 ]
+    },
+    "properties": {
+    "Site":"MIAMI NORTHWESTERN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2899015,25.8289609 ]
+    },
+    "properties": {
+    "Site":"MIAMI REGIONAL UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2103533,25.7949933 ]
+    },
+    "properties": {
+    "Site":"MIAMI-DADE COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2462675,26.0789364 ]
+    },
+    "properties": {
+    "Site":"NOVA SOUTHEASTERN UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0504326,26.7047472 ]
+    },
+    "properties": {
+    "Site":"PALM BEACH ATLANTIC UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0872773,26.6117786 ]
+    },
+    "properties": {
+    "Site":"PALM BEACH COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0872773,26.6117786 ]
+    },
+    "properties": {
+    "Site":"PALM BEACH COMMUNITY COLLEGE LW LPN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1981425,26.0319003 ]
+    },
+    "properties": {
+    "Site":"SHERIDAN TECHNICAL COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0859244,26.7026110 ]
+    },
+    "properties": {
+    "Site":"SOUTH UNIVERSITY WPB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2933728,25.9312449 ]
+    },
+    "properties": {
+    "Site":"SOUTHEASTERN COLLEGE - MIAMI LAKES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2580630,25.9237724 ]
+    },
+    "properties": {
+    "Site":"ST. THOMAS UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0908122,26.3806497 ]
+    },
+    "properties": {
+    "Site":"TECHNI-PRO INSTITUTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2599653,25.7499745 ]
+    },
+    "properties": {
+    "Site":"UNIVERSITY OF MIAMI SCHOOL OF NURSING & HEALTH STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3582959,25.9757487 ]
+    },
+    "properties": {
+    "Site":"UTICA COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3474003,25.8105330 ]
+    },
+    "properties": {
+    "Site":"WEST COAST UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1214853,26.7064232 ]
+    },
+    "properties": {
+    "Site":"Z ACADEMY OF NURSING AND HEALTH OCC (DO NOT USE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2008441,26.2612075 ]
+    },
+    "properties": {
+    "Site":"Z AMERICAN COLLEGE OF HEALTH & SCIENCE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3188734,25.7951697 ]
+    },
+    "properties": {
+    "Site":"Z ANTIGUA COLLEGE INTERNATIONAL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2278180,25.9277774 ]
+    },
+    "properties": {
+    "Site":"Z AZURE COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2523862,26.0789579 ]
+    },
+    "properties": {
+    "Site":"Z BRECKINRIDGE SCHOOL OF NURSING - FT. LAUDERDALE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2959773,25.9401059 ]
+    },
+    "properties": {
+    "Site":"Z BRECKINRIDGE SCHOOL OF NURSING - MIAMI (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0859244,26.7021553 ]
+    },
+    "properties": {
+    "Site":"Z BRECKINRIDGE SCHOOL OF NURSING - WPBCH (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3506979,25.9738741 ]
+    },
+    "properties": {
+    "Site":"Z BROWN MACKIE COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1242278,26.4382629 ]
+    },
+    "properties": {
+    "Site":"Z CAMBRIDGE INST OF ALLIED HEALTH & TECHNOLOGY (INACTVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1701515,26.1873506 ]
+    },
+    "properties": {
+    "Site":"Z CITY COLLEGE-FL (INACTIVE)  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2887854,25.9764130 ]
+    },
+    "properties": {
+    "Site":"Z CONCORDE CAREER INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2493823,26.2690012 ]
+    },
+    "properties": {
+    "Site":"Z EMERGENCY EDUCATION INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2082811,26.0407920 ]
+    },
+    "properties": {
+    "Site":"Z FLORIDA CAREER COLLEGE - LAUDERDALE LAKES (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2463762,26.0107838 ]
+    },
+    "properties": {
+    "Site":"Z FLORIDA CAREER COLLEGE - PEMBROKE PINES (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2907094,25.7632222 ]
+    },
+    "properties": {
+    "Site":"Z FLORIDA EDUCATION INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1591681,25.9257177 ]
+    },
+    "properties": {
+    "Site":"Z FMI CAREER SCHOOL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3215982,25.7738840 ]
+    },
+    "properties": {
+    "Site":"Z FORTIS COLLEGE - MIAMI WEST (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2044593,25.9440175 ]
+    },
+    "properties": {
+    "Site":"Z HEALTH OPPORTUNITY TECHNICAL CENTER, INC. (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4589295,25.4504589 ]
+    },
+    "properties": {
+    "Site":"Z HOMESTEAD HIGH SCHOOL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3574319,27.4252896 ]
+    },
+    "properties": {
+    "Site":"Z INDIAN RIVER COMMUNITY COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0649256,26.7878810 ]
+    },
+    "properties": {
+    "Site":"Z INLET GROVE COMMUNITY HIGH SCHOOL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0874518,26.7577676 ]
+    },
+    "properties": {
+    "Site":"Z INSTITUTE OF HEALCARE PROFESSIONALS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1752132,25.8909635 ]
+    },
+    "properties": {
+    "Site":"Z INTERNATIONAL ACADEMY TRAINING CENTER(INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0881065,26.3439538 ]
+    },
+    "properties": {
+    "Site":"Z INTERNATIONAL INSTITUTE FOR HEALTH CARE PROFESSIONALS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0881065,26.3439538 ]
+    },
+    "properties": {
+    "Site":"Z INTL. INST. FOR HEALTH CARE PROFESSIONALS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1643587,26.2040580 ]
+    },
+    "properties": {
+    "Site":"Z KAPLAN UNIVERSITY (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2931845,27.2815604 ]
+    },
+    "properties": {
+    "Site":"Z KEISER UNIVERSITY - PORT SAINT LUCIE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4197852,25.7234852 ]
+    },
+    "properties": {
+    "Site":"Z MATTIA COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2291687,25.8665432 ]
+    },
+    "properties": {
+    "Site":"Z MDPS - TURNER TECH (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2495576,27.1916272 ]
+    },
+    "properties": {
+    "Site":"Z MEDVANCE INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3408943,25.7023348 ]
+    },
+    "properties": {
+    "Site":"Z MEDVANCE MIAMI (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0872337,26.6362543 ]
+    },
+    "properties": {
+    "Site":"Z MEDVANCE PALM SPRINGS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1293770,26.3180950 ]
+    },
+    "properties": {
+    "Site":"Z NORTH BROWARD TECHNICAL CENTER(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2020783,26.1216168 ]
+    },
+    "properties": {
+    "Site":"Z ORION COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0935321,26.5858942 ]
+    },
+    "properties": {
+    "Site":"Z PALM BEACH  VOCATIONAL INSTITUTE, INC (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4197852,25.7234852 ]
+    },
+    "properties": {
+    "Site":"Z PROFESSIONAL TRAINING CENTERS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1217144,26.2099903 ]
+    },
+    "properties": {
+    "Site":"Z PROGRESSIVE TRAINING CENTERS, INC. (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2613601,25.7715029 ]
+    },
+    "properties": {
+    "Site":"Z SABER COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1806903,26.1649507 ]
+    },
+    "properties": {
+    "Site":"Z SIGMA INSTITUTE FOR HEALTH CAREERS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1591681,25.9257177 ]
+    },
+    "properties": {
+    "Site":"Z SINAI SCHOOL OF NURSING (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3256192,25.7834944 ]
+    },
+    "properties": {
+    "Site":"Z SOUTH FLORIDA COLLEGE OF NURSING (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0817561,26.5159695 ]
+    },
+    "properties": {
+    "Site":"Z SOUTH TECH ACADEMY (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1488265,26.6495809 ]
+    },
+    "properties": {
+    "Site":"Z SOUTHEASTERN COLLEGE GREEN ACRES (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3703017,25.7670209 ]
+    },
+    "properties": {
+    "Site":"Z UNIVERSAL CAREER SCHOOL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1119311,26.6996028 ]
+    },
+    "properties": {
+    "Site":"Z VICTORIA MEDICAL COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2257267,26.0258366 ]
+    },
+    "properties": {
+    "Site":"Z-DADE MEDICAL COLLEGE - HOLLYWOOD(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4770603,25.4732611 ]
+    },
+    "properties": {
+    "Site":"Z-DADE MEDICAL COLLEGE - HOMESTEAD(INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3378472,25.8837301 ]
+    },
+    "properties": {
+    "Site":"Z-DADE MEDICAL COLLEGE - MAIN(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2579897,25.7815484 ]
+    },
+    "properties": {
+    "Site":"Z-DADE MEDICAL COLLEGE - MIAMI(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1396745,26.2260891 ]
+    },
+    "properties": {
+    "Site":"Z-HOPE COLLEGE OF ARTS AND SCIENCES (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2595744,25.7513872 ]
+    },
+    "properties": {
+    "Site":"Z-UNIVERSITY OF SOUTHERNMOST FLORIDA(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6412908,39.0171701 ]
+    },
+    "properties": {
+    "Site":"BECKFIELD COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5361338,39.1496174 ]
+    },
+    "properties": {
+    "Site":"CINCINNATI STATE TECHNICAL AND COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3659570,39.2836538 ]
+    },
+    "properties": {
+    "Site":"GALEN COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5575970,39.0129949 ]
+    },
+    "properties": {
+    "Site":"GATEWAY COMMUNITY AND TECH COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5206727,39.1400349 ]
+    },
+    "properties": {
+    "Site":"GOOD SAMARITAN COLLEGE OF NURSING AND HEALTH SCIENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4134690,39.2926510 ]
+    },
+    "properties": {
+    "Site":"GREAT OAKS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3736416,39.3562473 ]
+    },
+    "properties": {
+    "Site":"HONDROS COLLEGE OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7300176,39.5086906 ]
+    },
+    "properties": {
+    "Site":"MIAMI UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5729712,39.0931169 ]
+    },
+    "properties": {
+    "Site":"MT. ST. JOSEPH UNIVERSITY "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4592685,39.0334704 ]
+    },
+    "properties": {
+    "Site":"NORTHERN KENTUCKY UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6139477,39.2364808 ]
+    },
+    "properties": {
+    "Site":"SOUTHERN STATE COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5085607,39.1208511 ]
+    },
+    "properties": {
+    "Site":"THE CHRIST COLLEGE OF NURSING & HEALTH SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5668496,39.0207707 ]
+    },
+    "properties": {
+    "Site":"THOMAS MORE COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3998629,39.2329891 ]
+    },
+    "properties": {
+    "Site":"UC BLUE ASH COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5083433,39.1359919 ]
+    },
+    "properties": {
+    "Site":"UNIVERSITY OF CINCINNATI COLLEGE OF NURSING (SEMESTER)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4795628,39.1489130 ]
+    },
+    "properties": {
+    "Site":"XAVIER UNIVERSITY "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4497718,39.1620845 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE BRECKINRIDGE SCHOOL OF NURSING AT ITT TECHNICAL INSTITUTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4568098,39.2559024 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE BROWN MACKIE COLLEGE - CIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5705338,39.0422902 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE BROWN MACKIE COLLEGE-KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8103456,39.7513961 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE CEDARVILLE UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7992191,39.8957804 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE CLARK STATE COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4450398,39.2828863 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE FORTIS COLLEGE CINCINNATI "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1462164,39.6443273 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE FORTIS COLLEGE-CENTERVILLE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1925392,39.6953433 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE KETTERING COLLEGE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3276462,39.8446571 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE MIAMI VALLEY CAREER TECHNOLOGY CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4970056,39.1293752 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE NURSE REFRESHER PROGRAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1993987,39.7572689 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE SINCLAIR COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7686910,39.9190390 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE SPRINGFIELD REGIONAL SCHOOL OF NURSING                           "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4970056,39.1293752 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE TRIHEALTH PCA PROGRAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5083433,39.1359919 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE UNIVERSITY OF CINCINNATI COLLEGE OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0583281,39.7846157 ]
+    },
+    "properties": {
+    "Site":"Z INACTIVE WRIGHT STATE UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2449001,29.3990108 ]
+    },
+    "properties": {
+    "Site":"ALVIN COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5603333,29.8384041 ]
+    },
+    "properties": {
+    "Site":"CHAMBERLAIN COLLEGE OF NURSING "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9995583,29.3957069 ]
+    },
+    "properties": {
+    "Site":"COLLEGE OF THE MAINLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.1250580,29.6854960 ]
+    },
+    "properties": {
+    "Site":"EMERGENCY CONSULTANTS INC "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.8078220,29.2847110 ]
+    },
+    "properties": {
+    "Site":"GALVESTON COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5147577,29.6929877 ]
+    },
+    "properties": {
+    "Site":"HOUSTON BAPTIST UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4051631,29.7039566 ]
+    },
+    "properties": {
+    "Site":"HOUSTON COMMUNITY COLLEGE SYSTEM ADN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3880059,29.7277977 ]
+    },
+    "properties": {
+    "Site":"HOUSTON VISITOR SCHOOL (TRIAL) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9693741,29.7697710 ]
+    },
+    "properties": {
+    "Site":"LEE COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6918200,29.9107475 ]
+    },
+    "properties": {
+    "Site":"LONE STAR COLLEGE - CY-FAIR "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4678612,30.2112238 ]
+    },
+    "properties": {
+    "Site":"LONE STAR COLLEGE - MONTGOMERY "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3989453,29.7134134 ]
+    },
+    "properties": {
+    "Site":"PRAIRIE VIEW A & M"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5502437,30.7146623 ]
+    },
+    "properties": {
+    "Site":"SAM HOUSTON STATE UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.1816689,29.8098966 ]
+    },
+    "properties": {
+    "Site":"SAN JACINTO COLLEGE CENTRAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.1816689,29.8098966 ]
+    },
+    "properties": {
+    "Site":"SAN JACINTO COLLEGE NORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2039156,29.5798120 ]
+    },
+    "properties": {
+    "Site":"SAN JACINTO SOUTH ADN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2039156,29.5798120 ]
+    },
+    "properties": {
+    "Site":"SAN JACINTO SOUTH VN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4035744,29.7072785 ]
+    },
+    "properties": {
+    "Site":"TEXAS WOMEN'S UNIVERSITY HOUSTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4529371,29.7992819 ]
+    },
+    "properties": {
+    "Site":"THE COLLEGE OF HEALTH CARE PROFESSIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3986763,29.7056424 ]
+    },
+    "properties": {
+    "Site":"THE UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON SCHOOL OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6504893,29.5752059 ]
+    },
+    "properties": {
+    "Site":"UNIV OF HOUSTON COLLEGE OF NURSING "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3944664,29.7350911 ]
+    },
+    "properties": {
+    "Site":"UNIVERSITY OF SAINT THOMAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.7758738,29.3107498 ]
+    },
+    "properties": {
+    "Site":"UNIVERSITY OF TEXAS MEDICAL BRANCH (NURSING SCHOOL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8699469,40.6849290 ]
+    },
+    "properties": {
+    "Site":"WESTERN GOVERNORS UNIVERSITY "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5913512,29.7314250 ]
+    },
+    "properties": {
+    "Site":"Z BELL TECH CAREER INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4079920,29.0496710 ]
+    },
+    "properties": {
+    "Site":"Z BRAZOSPORT COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2604452,30.0559731 ]
+    },
+    "properties": {
+    "Site":"Z- LONE STAR COLLEGE - KINGWOOD (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3798898,30.0065776 ]
+    },
+    "properties": {
+    "Site":"Z LONE STAR COLLEGE - NORTH HARRIS (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.7342848,32.4735475 ]
+    },
+    "properties": {
+    "Site":"Z MID AMERICA LEARNING- INACTIVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5676760,29.6321282 ]
+    },
+    "properties": {
+    "Site":"Z PROFESSIONAL HEALTHCARE EDUCATION SERVICE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3241431,27.7127440 ]
+    },
+    "properties": {
+    "Site":"Z TEXAS A&M UNIVERSITY - CORPUS CHRISTI(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.0857765,29.3238150 ]
+    },
+    "properties": {
+    "Site":"Z WHARTON CTY JR COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4051631,29.7039566 ]
+    },
+    "properties": {
+    "Site":"ZHOUSTON COMMUNITY COLLEGE - COLEMAN LVN (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1578445,33.9153721 ]
+    },
+    "properties": {
+    "Site":"Advanced College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2925843,34.0793518 ]
+    },
+    "properties": {
+    "Site":"American Career College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1966834,33.9315629 ]
+    },
+    "properties": {
+    "Site":"American Career College - St Francis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2567737,34.1470060 ]
+    },
+    "properties": {
+    "Site":"American Medical Sciences Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1713735,33.7968545 ]
+    },
+    "properties": {
+    "Site":"American University Of Health Sciences"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8890242,34.1291939 ]
+    },
+    "properties": {
+    "Site":"Azusa Pacific University School Of Nursing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.6018132,34.1975508 ]
+    },
+    "properties": {
+    "Site":"California Career College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9597737,33.7864788 ]
+    },
+    "properties": {
+    "Site":"California Career Instituteitute"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1736587,34.0620391 ]
+    },
+    "properties": {
+    "Site":"California State University Los Angeles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5262520,34.2399163 ]
+    },
+    "properties": {
+    "Site":"California State University Northridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0434218,34.1620531 ]
+    },
+    "properties": {
+    "Site":"California State University, Channel Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2418211,33.9253438 ]
+    },
+    "properties": {
+    "Site":"Charles R. Drew University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5705894,34.4043812 ]
+    },
+    "properties": {
+    "Site":"College Of The Canyons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1509336,34.0410705 ]
+    },
+    "properties": {
+    "Site":"East Los Angeles College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2098066,33.8774168 ]
+    },
+    "properties": {
+    "Site":"El Camino College - Compton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3304771,33.8846365 ]
+    },
+    "properties": {
+    "Site":"El Camino College - Torrance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2554198,34.1488993 ]
+    },
+    "properties": {
+    "Site":"Glendale Career College - Rn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2281344,34.1664923 ]
+    },
+    "properties": {
+    "Site":"Glendale Community College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3501340,33.8090880 ]
+    },
+    "properties": {
+    "Site":"Homestead Schools"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2929040,34.0892322 ]
+    },
+    "properties": {
+    "Site":"Los Angeles City College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2826821,33.7841100 ]
+    },
+    "properties": {
+    "Site":"Los Angeles Harbor College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5710341,34.1824071 ]
+    },
+    "properties": {
+    "Site":"Los Angeles Pierce College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3060462,33.9288028 ]
+    },
+    "properties": {
+    "Site":"Los Angeles Southwest College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2697468,34.0325515 ]
+    },
+    "properties": {
+    "Site":"Los Angeles Trade Technical College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4201438,34.1757062 ]
+    },
+    "properties": {
+    "Site":"Los Angeles Valley College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1906195,33.9301148 ]
+    },
+    "properties": {
+    "Site":"Lynwood Community Adult School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.8352089,34.3018444 ]
+    },
+    "properties": {
+    "Site":"Moorpark College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4815847,34.0841630 ]
+    },
+    "properties": {
+    "Site":"Mount Saint Mary'S University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3725372,33.9282034 ]
+    },
+    "properties": {
+    "Site":"National University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1485656,33.8018961 ]
+    },
+    "properties": {
+    "Site":"North West College (Long Beach)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1392862,34.1468698 ]
+    },
+    "properties": {
+    "Site":"North West College (Pasadena)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7512188,34.0621002 ]
+    },
+    "properties": {
+    "Site":"North West College (Pomona)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9504827,34.0718937 ]
+    },
+    "properties": {
+    "Site":"North West College (Riverside)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9504827,34.0718937 ]
+    },
+    "properties": {
+    "Site":"North West College (W. Covina)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8733121,33.6800845 ]
+    },
+    "properties": {
+    "Site":"Pacific College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1191895,34.1440134 ]
+    },
+    "properties": {
+    "Site":"Pasadena City College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0348436,34.0189270 ]
+    },
+    "properties": {
+    "Site":"Rio Hondo College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4697566,34.0170266 ]
+    },
+    "properties": {
+    "Site":"Santa Monica College"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9923497,33.7830303 ]
+    },
+    "properties": {
+    "Site":"Sri Sai Krish Instituteitute"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2966034,33.8588812 ]
+    },
+    "properties": {
+    "Site":"Trinity School Of Allied Health And Sciences"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4419549,34.0667438 ]
+    },
+    "properties": {
+    "Site":"Ucla School Of Nursing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4506519,37.7765484 ]
+    },
+    "properties": {
+    "Site":"University Of San Francisco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8631203,33.7809175 ]
+    },
+    "properties": {
+    "Site":"University Of San Francisco - Orange County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9685945,33.8490323 ]
+    },
+    "properties": {
+    "Site":"West Coast University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7525912,34.0580674 ]
+    },
+    "properties": {
+    "Site":"Western University Of Health Sciences"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2554972,33.8665754 ]
+    },
+    "properties": {
+    "Site":"CALIFORNIA STATE UNIVERSITY DOMINGUEZ HILLS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3269704,33.9190409 ]
+    },
+    "properties": {
+    "Site":"CASA LOMA COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0962259,33.8861477 ]
+    },
+    "properties": {
+    "Site":"CERRITOS COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2554972,33.8665754 ]
+    },
+    "properties": {
+    "Site":"CSU DOMINGUEZ HILLS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9026351,33.8740731 ]
+    },
+    "properties": {
+    "Site":"CSU FULLERTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1347840,33.8327926 ]
+    },
+    "properties": {
+    "Site":"LONG BEACH CITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8451250,34.0482035 ]
+    },
+    "properties": {
+    "Site":"MOUNT SAN ANTONIO COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3208530,34.0622455 ]
+    },
+    "properties": {
+    "Site":"PREFERRED COLLEGE OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2489680,34.1164004 ]
+    },
+    "properties": {
+    "Site":"SHEPHERD UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8576500,33.6788752 ]
+    },
+    "properties": {
+    "Site":"STANBRIDGE COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8850883,34.1333477 ]
+    },
+    "properties": {
+    "Site":"CITRUS COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4035766,34.1863481 ]
+    },
+    "properties": {
+    "Site":"CONCORDE CAREER COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1148372,33.9188970 ]
+    },
+    "properties": {
+    "Site":"DOWNEY ADULT SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9259014,36.9876108 ]
+    },
+    "properties": {
+    "Site":"CABRILLO COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0532421,37.6534661 ]
+    },
+    "properties": {
+    "Site":"CAL STATE EAST BAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1065773,37.6424687 ]
+    },
+    "properties": {
+    "Site":"CHABOT COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4510707,37.7258889 ]
+    },
+    "properties": {
+    "Site":"CITY COLLEGE OF SAN FRANCISCO - ADN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4510707,37.7258889 ]
+    },
+    "properties": {
+    "Site":"CITY COLLEGE OF SAN FRANCISCO - LVN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5496147,37.9511887 ]
+    },
+    "properties": {
+    "Site":"COLLEGE OF MARIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3351230,37.5350511 ]
+    },
+    "properties": {
+    "Site":"COLLEGE OF SAN MATEO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3404490,37.9686540 ]
+    },
+    "properties": {
+    "Site":"CONTRA COSTA COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0450548,37.3195396 ]
+    },
+    "properties": {
+    "Site":"DE ANZA COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5134504,37.9798523 ]
+    },
+    "properties": {
+    "Site":"DOMINICAN UNIVERSITY OF CALIFORNIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7627821,37.3001189 ]
+    },
+    "properties": {
+    "Site":"EVERGREEN VALLEY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.5685598,36.9732557 ]
+    },
+    "properties": {
+    "Site":"GAVILAN COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1857355,37.8026334 ]
+    },
+    "properties": {
+    "Site":"HOLY NAMES UNIVERSITY "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8605006,38.0053337 ]
+    },
+    "properties": {
+    "Site":"LOS MEDANOS COLLEGE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8004765,37.7108595 ]
+    },
+    "properties": {
+    "Site":"LOS POSITAS COLLEGE(TRIAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1656120,37.7895530 ]
+    },
+    "properties": {
+    "Site":"MERRITT COLLEGE - ADN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9820461,37.3912164 ]
+    },
+    "properties": {
+    "Site":"MISSION COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0042679,37.5170005 ]
+    },
+    "properties": {
+    "Site":"OHLONE COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4394834,38.5698777 ]
+    },
+    "properties": {
+    "Site":"PACIFIC UNION COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2639070,37.8210050 ]
+    },
+    "properties": {
+    "Site":"SAMUEL MERRITT UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4211539,37.7470688 ]
+    },
+    "properties": {
+    "Site":"SAMUEL MERRITT UNIVERSITY  SFPLC - SF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3015614,37.5577029 ]
+    },
+    "properties": {
+    "Site":"SAMUEL MERRITT UNIVERSITY SFPLC - SM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4768438,37.7212000 ]
+    },
+    "properties": {
+    "Site":"SAN FRANCISCO STATE UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2663635,37.4473861 ]
+    },
+    "properties": {
+    "Site":"SAN FRANCISCO STATE UNIVERSITY/CANADA COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8810715,37.3351874 ]
+    },
+    "properties": {
+    "Site":"SAN JOSE STATE UNIVERSITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1236828,38.2348856 ]
+    },
+    "properties": {
+    "Site":"SOLANO COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4603476,37.7619258 ]
+    },
+    "properties": {
+    "Site":"UCSF - SCHOOL OF NURSING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9617263,37.5090078 ]
+    },
+    "properties": {
+    "Site":"UNITEK COLLEGE, FREMONT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1157983,37.6606567 ]
+    },
+    "properties": {
+    "Site":"UNITEK COLLEGE, HAYWARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4556430,37.6563740 ]
+    },
+    "properties": {
+    "Site":"UNITEK COLLEGE, SOUTH SAN FRANCISCO "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4506519,37.7765484 ]
+    },
+    "properties": {
+    "Site":"UNIVERSITY OF SAN FRANCISCO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0876946,37.6184552 ]
+    },
+    "properties": {
+    "Site":"Z ADVANCED PRO NURSING INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4947376,38.5717898 ]
+    },
+    "properties": {
+    "Site":"Z ALLIED HEALTH DEMO SCHOOL (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0476098,37.9868808 ]
+    },
+    "properties": {
+    "Site":"Z AMERICAN COLLEGE OF NURSING (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1043811,37.4172136 ]
+    },
+    "properties": {
+    "Site":"Z BAY AREA COLLEGE OF NURSING (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2774966,38.2467511 ]
+    },
+    "properties": {
+    "Site":"Z BOSTON REED COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4352889,37.7244923 ]
+    },
+    "properties": {
+    "Site":"Z CALIFORNIA NURSES AND VOCATIONAL INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7860552,37.9692033 ]
+    },
+    "properties": {
+    "Site":"Z CARRINGTON COLLEGE CALIFORNIA - ANTIOCH (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4582424,37.6909169 ]
+    },
+    "properties": {
+    "Site":"Z CENTERPOINTE LEARNING INSTITUTE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9454340,38.3785650 ]
+    },
+    "properties": {
+    "Site":"Z CSI CAREER COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3077490,37.5473936 ]
+    },
+    "properties": {
+    "Site":"Z GURNICK ACADEMY OF MEDICAL ARTS - SAN MATEO (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8919995,37.3327427 ]
+    },
+    "properties": {
+    "Site":"Z INSTITUTE OF MEDICAL EDUCATION (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2288632,39.1889814 ]
+    },
+    "properties": {
+    "Site":"Z MENDOCINO COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1656120,37.7895530 ]
+    },
+    "properties": {
+    "Site":"Z MERRITT COLLEGE - LVN (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4612328,37.7816412 ]
+    },
+    "properties": {
+    "Site":"Z OXMAN COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7197181,38.4581971 ]
+    },
+    "properties": {
+    "Site":"Z SANTA ROSA JUNIOR COLLEGE (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6738225,38.3409331 ]
+    },
+    "properties": {
+    "Site":"Z SONOMA STATE UNIVERSITY(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8611533,37.3285570 ]
+    },
+    "properties": {
+    "Site":"Z ST. FRANCIS CAREER COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7760600,37.2353732 ]
+    },
+    "properties": {
+    "Site":"Z WESTERN CAREER COLLEGE-SAN JOSE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1262352,37.7003370 ]
+    },
+    "properties": {
+    "Site":"Z WESTERN CAREER COLLEGE-SAN LEANDRO (INACTIVE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9967612,37.3224995 ]
+    },
+    "properties": {
+    "Site":"Z WESTMED COLLEGE(INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2777462,38.2743057 ]
+    },
+    "properties": {
+    "Site":"ZNAPA VALLEY COLLEGE (INACTIVE) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1561995,37.7257016 ]
+    },
+    "properties": {
+    "Site":"ZNIGHTINGALE NURSING (INACTIVE) "
+    }
+  }
+]
+}
